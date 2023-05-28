@@ -24,7 +24,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=truethari&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="truethari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=truethari&theme=highcontrast" alt="truethari" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
